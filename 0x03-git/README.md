@@ -1,1 +1,1 @@
-# Practicing a bit with git
+# Practicing quite a bit with the git
