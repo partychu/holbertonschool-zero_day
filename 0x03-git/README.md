@@ -1,1 +1,1 @@
-Git is hurting me. But it's ok.
+Git project for Holberton
